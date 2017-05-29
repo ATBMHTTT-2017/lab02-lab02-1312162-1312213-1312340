@@ -25,7 +25,7 @@ Yêu cầu **bắt buộc**
 * [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**MSSV**)
 * [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**MSSV**)
 * [ ] Chỉ trưởng dự án được phép xem và cập nhật thông tin chi tiêu của dự án của mình. (**MSSV**)
-* [ ] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**MSSV**)
+* [x] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**1312340**)
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 * [ ] Chức năng 1
@@ -34,8 +34,8 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
-
-![Video Walkthrough](demo.gif)
+##security_3_1312340
+![Video Walkthrough](Demo1312340.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
