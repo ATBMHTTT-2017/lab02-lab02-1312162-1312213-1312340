@@ -33,7 +33,8 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 ## Demo
 
-Link ảnh GIF demo ứng dụng:
+Link ảnh GIF demo ứng dụng:  
+
 ##security_3_1312340
 ![Video Walkthrough](Demo1312340.gif)
 
